@@ -53,6 +53,21 @@ Ministry of Tourism: Potential adoption and sponsorship.
 
 To establish Nile Compass as the leading cultural travel companion for Egypt, combining ancient heritage with modern digital experiences for a richer, more accessible journey.
 
+
+---
+## 🎨 UX Research and Design Assets (Figma)
+
+To access all user experience (UX) research and design phases for the **Nile-Compass** project, please use the following link:
+
+**🔗 Direct Figma Link:** [Click here to view Figma Designs] https://www.figma.com/board/pMCbZkWViBBZiVNmEujd0W/Nile-Compass?node-id=0-1&t=2yI0jnlnO3ZKUjzB-1
+Current Figma content includes:
+* Competitor Analysis (**Competitors**).
+* User Personas (**Persona**).
+
+**Note on Documentation:** The **Survey Charts** documentation has already been uploaded and is available in the repository's file list under the name `NileCompass-survey-charts.pdf`.
+---
+
+
 📂 Repository Notes
 
 This repository is primarily for documentation and design assets.
