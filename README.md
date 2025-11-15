@@ -19,7 +19,7 @@ Interactive Map – Explore heritage sites with practical information (tickets, 
 
 Cultural Storytelling – Local voices narrating myths, legends, and hidden history.
 
-AR/VR Previews – Virtual reconstructions of heritage sites for immersive exploration.
+VR Preview – Virtual reconstructions of heritage sites for immersive exploration.
 
 Travel Etiquette – Guidance on greetings, dress codes, and respectful practices.
 
@@ -59,27 +59,34 @@ Research & Discovery board (FigJam)
 This File is dedicated to the initial research, analysis, and discovery phases.
 To access all user experience (UX) research and design phases for the **Nile-Compass** project, please use the following link:
 
-**🔗 Direct FigJam Link:** [Click here to view the research board + Figjam] https://www.figma.com/board/pMCbZkWViBBZiVNmEujd0W/Nile-Compass?node-id=0-1&t=2yI0jnlnO3ZKUjzB-1
+**🔗 Direct FigJam Link:** [Click here to view the research board + Figjam] https://www.figma.com/board/pMCbZkWViBBZiVNmEujd0W/Nile-Compass?node-id=0-1&p=f&t=SeH2m3Mh7hiBlsdi-0
 Current FigJam content includes:
 * Competitor Analysis (**Competitors**).
 * User Personas (**Persona**).
 * 5Whats& 7 key features
 *Information Architecture
 
-2. UI Design and Interactive Prototype 
- This file contains the final high-fidelity user interface (UI) design, wireframes, and the interactive flow, showcasing the complete progression of the visual and structural elements: 
- **🔗 Figma Design Link:** [Click here to view the Final Prototype] (https://www.figma.com/design/8hafjKDz0tKIo35LQm2IHm/Untitled?node-id=5-2&p=f&t=AM2ECFotxJbV3NkS-0) 
- 
- **Design Stages Covered:** 
- * **Low-Fidelity Wireframes:** Initial structural layouts and basic screen mapping. 
- * **Mid-Fidelity Wireframes:** Detailed information architecture and functional placement. 
- * **High-Fidelity Mockups:** Final visual representation of all screens. 
- 
- **Visual Design Assets:** 
- * **Typography:** Defined font families, weights, and hierarchy system. 
- * **Color Palette:** Primary, secondary, and accent colors, including accessibility checks. 
- * **Visual Elements:** Branding guidelines and foundational components (buttons, cards, etc.). 
- * **Interactive Prototype:** The final clickable prototype demonstrating the user journey.
+### 2. UI Design and Interactive Prototype
+
+This file is the comprehensive design repository, showcasing all UI/UX work across multiple platforms and covering the full design cycle:
+
+**🔗 Figma Design Link:** [Click here to view the Final Design File & Case Study] https://www.figma.com/design/8hafjKDz0tKIo35LQm2IHm/Nile-Compass?node-id=5-4&p=f&t=gtJvMuSZltpNmc5o-0
+
+**1. Platform & Responsiveness:**
+* **Full Responsive Web Design:** Includes screen sizes: **1440px, 991px, 767px, 575px, 430px.**
+* **Dedicated Mobile Application Design:** Complete native mobile application screens and user flows are included.
+
+**2. Visual System & Themes:**
+* **Dark Mode Implementation:** Complete theme designs for an alternative viewing experience.
+* **Typography:** Defined font families, weights, and hierarchy system.
+* **Color Palette:** Primary, secondary, and accent colors, including accessibility checks.
+* **Design System Assets:** Comprehensive component library and foundational visual elements.
+
+**3. Deliverables & Documentation:**
+* **Fidelity Stages:** Progression from Low-Fidelity Wireframes, Mid-Fidelity, to High-Fidelity Mockups.
+* **Comprehensive Case Study:** The full project documentation, design rationale, and outcomes are included within this file.
+* **Interactive Prototype:** The final clickable flow demonstrating the user journey.
+
  
 **Note on Documentation:** The **Survey Charts** documentation has already been uploaded and is available in the repository's file list under the name `NileCompass-survey-charts.pdf`.
 ---
@@ -89,6 +96,6 @@ Current FigJam content includes:
 
 This repository is primarily for documentation and design assets.
 
-Future contributions may include frontend, backend, and AR/VR development once technical collaborators are onboarded.
+Future contributions may include frontend, backend, and VR development once technical collaborators are onboarded.
 
 Developers interested in contributing can open Issues or Discussions to align on the roadmap.
