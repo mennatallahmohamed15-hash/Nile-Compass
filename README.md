@@ -84,10 +84,10 @@ This file is the comprehensive design repository, showcasing all UI/UX work acro
 
 **3. Deliverables & Documentation:**
 * **Fidelity Stages:** Progression from Low-Fidelity Wireframes, Mid-Fidelity, to High-Fidelity Mockups.
-* **Comprehensive Case Study:** The full project documentation, design rationale, and outcomes are included within this file.
+* **Comprehensive Case Study:** The full project documentation, design rationale, and outcomes have been uploaded and are available in the repository files.( https://github.com/mennatallahmohamed15-hash/Nile-Compass/commit/40d209bde4471c1e31cc832f53b2d69f9306d9ae)
+
 * **Interactive Prototype:** The final clickable flow demonstrating the user journey.
 
- 
 **Note on Documentation:** The **Survey Charts** documentation has already been uploaded and is available in the repository's file list under the name `NileCompass-survey-charts.pdf`.
 ---
 
