@@ -87,6 +87,21 @@ This file is the comprehensive design repository, showcasing all UI/UX work acro
 * **Comprehensive Case Study:** The full project documentation, design rationale, and outcomes have been uploaded and are available in the repository files.( https://github.com/mennatallahmohamed15-hash/Nile-Compass/commit/40d209bde4471c1e31cc832f53b2d69f9306d9ae)
 
 * **Interactive Prototype:** The final clickable flow demonstrating the user journey.
+## Project Design Details and Assets
+
+This section provides links to the complete design resources for this project, including the mobile application and website assets, as well as the full case study.
+
+
+* **Website Assets:**
+    [https://drive.google.com/drive/folders/12YFh3CUhSokVIUP8coEGlDFhVpa4QhdN?usp=sharing]
+
+* **Mobile Application Assets:**
+    [https://drive.google.com/drive/folders/15wo6Xz2YMLO4H5cpxxsBiu-PXut-WhYF?usp=sharing]
+
+
+* **Full Case Study:**
+    [https://drive.google.com/drive/folders/1PHu3KsrgSpPV3TRGdkmXW_--d7XDpY63?usp=sharing]
+    *(This link provides an in-depth look at the design process, user research, wireframes, and final mockups.)*
 
 **Note on Documentation:** The **Survey Charts** documentation has already been uploaded and is available in the repository's file list under the name `NileCompass-survey-charts.pdf`.
 ---
